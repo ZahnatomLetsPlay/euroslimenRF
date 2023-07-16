@@ -1,0 +1,4 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"BAT1","Conn_01x02_Pin","JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal",116.430000,-57.770000,90.000000,bottom
+"EXT1","Conn_01x05_Pin","JST_PH_S5B-PH-K_1x05_P2.00mm_Horizontal",101.470000,-72.510000,90.000000,bottom
+"PROG1","Conn_01x03_Pin","PinHeader_1x03_P2.54mm_Horizontal",107.510000,-61.760000,-90.000000,bottom
